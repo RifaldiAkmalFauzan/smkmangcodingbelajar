@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gridStyle {
+  @apply grid lg:grid-cols-3 lg:grid-rows-2 sm:grid-cols-2 sm:grid-rows-3 grid-cols-1  gap-6;
+}
+
+.animation {
+  @apply hover:scale-95 active:scale-75 transition-all duration-200;
+}
+
+.buttonStyle {
+  @apply hover:bg-active active:bg-focus focus:bg-button active:scale-95;
+}
+
+.navigasi {
+  @apply text-h4 font-bold pb-6 lg:mt-0 mt-6;
+}
+
+.list {
+  @apply text-p3 leading-8;
+}
+
+.hoverList {
+  @apply hover:text-slate-500 transition-all duration-150;
+}
+
+.hamburger-line {
+  @apply w-[30px] h-[2px] my-2 block bg-hero;
+}
+
+.menua {
+  @apply py-2 px-3 font-medium text-white;
+}
+
+.activ {
+  @apply hover:font-bold hover:bg-button rounded-md;
+}
