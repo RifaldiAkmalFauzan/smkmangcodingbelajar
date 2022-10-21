@@ -2,7 +2,8 @@
     <div>
         <!--  -->
         <header>
-            <nav class="container h-20 max-w-full  bg-transparent backdrop-blur-sm fixed z-20 flex justify-between ">
+            <nav
+                class="container h-20 max-w-full  bg-hero bg-opacity-40 backdrop-blur-sm fixed z-20 flex justify-between ">
                 <div class="logo my-auto">
                     <img src="../../asset/images/logo.svg" alt="">
                 </div>

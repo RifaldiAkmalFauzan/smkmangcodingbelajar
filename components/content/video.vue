@@ -1,6 +1,6 @@
 <template>
     <div>
-        <section class="m-20">
+        <section class="mb-20 mt-12">
             <div class="container ">
                 <div class="video lg:flex gap-6">
                     <div class="left my-auto lg:w-1/2">

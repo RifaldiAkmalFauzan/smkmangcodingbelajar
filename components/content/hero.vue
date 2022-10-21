@@ -9,7 +9,7 @@
                         <div class="lg:relative mb-6 mt-4">
                             <h1 class="text-hero text-slate-50 font-bold z-10">Welcome to Website SMK
                                 <span class="relative">
-                                    <span class="relative z-10">MangCoding</span>
+                                    <span class="relative z-10">Mangcoding </span>
                                     <img src="../../asset/images/lineHero.svg" alt=""
                                         class="absolute top-3/4 bottom-1/4 right-0 ">
                                 </span>Belajar
